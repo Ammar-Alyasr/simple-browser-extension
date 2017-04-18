@@ -1,0 +1,16 @@
+{
+  "name":"Benim-guzel-uzantim",
+  "description":"burada guzel uzantimi anlatacagim",
+  "version":"0.1",
+  "manifest_version": 2,
+
+  "browser_action": {
+    "default_icon": "asil-0.png",
+    "default_popup": "popup.html",
+    "default_title": "Ammarik ilk extitionu"
+  },
+
+
+  "permissions": ["notifications"]
+
+}
